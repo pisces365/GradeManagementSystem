@@ -4,7 +4,7 @@
 
 项目结构比较简单。
 
-附代码截图：
+附项目截图：
 
 ![backend](https://github.com/pisces365/GradeManagementSystem/blob/master/img/backend.png)
 
